@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_todosNew Todo InputToggle All InputGo _8eebbf</name>
+   <tag></tag>
+   <elementGuidId>150b5947-d5e8-4b8d-b3b7-f3cd512febc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+      <webElementGuid>2aca1745-c1ef-4f7e-b100-34dc6b0cf4e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>todosNew Todo InputToggle All InputGo to H Club SCBD1 item left!AllActiveCompletedClear completedDouble-click to edit a todoCreated by the TodoMVC TeamPart of TodoMVC/html[1]/body[1]</value>
+      <webElementGuid>abdda6a1-2079-4259-8cbd-5290d5b3fb85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+      <webElementGuid>f7e2ac48-5705-4ab2-b8ef-185b4109fd21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+      <webElementGuid>1e52686f-9cc3-4630-9ebf-5abc8040875b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//body[(text() = 'todosNew Todo InputToggle All InputGo to H Club SCBD1 item left!AllActiveCompletedClear completedDouble-click to edit a todoCreated by the TodoMVC TeamPart of TodoMVC/html[1]/body[1]' or . = 'todosNew Todo InputToggle All InputGo to H Club SCBD1 item left!AllActiveCompletedClear completedDouble-click to edit a todoCreated by the TodoMVC TeamPart of TodoMVC/html[1]/body[1]')]</value>
+      <webElementGuid>73264193-f6c0-4848-8b22-5b9d729bd096</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
